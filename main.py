@@ -1,0 +1,1 @@
+print("Wikipedia graph scrapper iniciado")
